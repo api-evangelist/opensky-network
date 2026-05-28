@@ -1,0 +1,32 @@
+aid: opensky-network
+name: OpenSky Network
+description: "Free real-time ADS-B aviation data"
+url: https://opensky-network.org/apidoc/index.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: OpenSky Network
+    description: "Free real-time ADS-B aviation data"
+    humanURL: https://opensky-network.org/apidoc/index.html
+    baseURL: https://opensky-network.org/apidoc/index.html
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://opensky-network.org/apidoc/index.html
+common:
+  - type: Website
+    url: https://opensky-network.org/apidoc/index.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
