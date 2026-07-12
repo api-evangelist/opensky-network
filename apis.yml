@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://opensky-network.org/apidoc/index.html
 common:
+  - type: DomainSecurity
+    url: security/opensky-network-domain-security.yml
   - type: Website
     url: https://opensky-network.org/apidoc/index.html
   - type: PublicAPIsListing
